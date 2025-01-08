@@ -1,6 +1,6 @@
 pulp
-streamlit==1.41.1
-streamlit-option-menu==0.3.2
-st-aggrid==0.4.0
-pandas==2.2.3
-plotly==5.17.0
+streamlit
+streamlit-option-menu
+st-aggrid
+pandas
+plotly
