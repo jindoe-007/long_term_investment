@@ -1,5 +1,6 @@
-streamlit-option-menu
+pulp
 streamlit
+streamlit-option-menu
+st-aggrid
 pandas
 plotly
-pulp
